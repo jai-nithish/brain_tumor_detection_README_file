@@ -44,15 +44,18 @@ SVM with semi-supervised clustering leverages both labeled and unlabeled data to
 
 - **MATLAB**
   
-  ![MATLAB](path_to_your_image/matlab_logo.png)
+  <img src="https://github.com/user-attachments/assets/7f589ea9-2624-44a9-9d6e-0cf2aa8127e2" alt="image" width="100" />
+
   
   MATLAB is used for implementing and testing various image processing algorithms, such as fuzzy clustering and texture segmentation.
 
 - **C++**
-  
-  ![C++](path_to_your_image/cpp_logo.png)
+ 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="100" />
   
   C++ is utilized for optimizing the performance of computationally intensive algorithms, including the watershed algorithm and SVM.
+
+
   
 ## Dependencies
 
